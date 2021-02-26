@@ -1,2 +1,2 @@
 # Dragon-Topia
-A mod for dragons and other amazing stuff
+A minecraft 1.12.2 minecraft mod, with amazing textures and models from me and my team
